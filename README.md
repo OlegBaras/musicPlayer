@@ -1,4 +1,4 @@
-Try live music-player-with-hooks.netlify.app
+Try live https://music-player-with-hooks.netlify.app/
 
 # Getting Started with Create React App
 
